@@ -1,0 +1,26 @@
+.box {
+    width: 300px;
+    height: 400px;
+    background-color: #2F8141;
+}
+
+.box1 {
+    width: 571px;
+    height: 140px;
+    background-color: #13513B;
+    margin-top: 15px;
+}
+
+.box2 {
+    width: 571px;
+    height: 140px;
+    background-color: #E624BB;
+    margin-top: 15px;
+}
+
+.box3 {
+    width: 571px;
+    height: 140px;
+    background-color: #55EF0D;
+    margin-top: 15px;
+}
